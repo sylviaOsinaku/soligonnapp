@@ -1,0 +1,89 @@
+{
+  "questions": [
+    {
+      "question": "Who is the all-time leading scorer in NBA history?",
+      "options": [
+        "Kareem Abdul-Jabbar",
+        "Michael Jordan",
+        "LeBron James",
+        "Kobe Bryant"
+      ],
+      "correct_answer": 0,
+      "explanation": "Kareem Abdul-Jabbar is the all-time leading scorer in NBA history."
+    },
+    {
+      "question": "Which country has won the most FIFA World Cup titles?",
+      "options": ["Brazil", "Germany", "Argentina", "Italy"],
+      "correct_answer": 0,
+      "explanation": "Brazil has won the most FIFA World Cup titles."
+    },
+    {
+      "question": "Which athlete has won the most Olympic gold medals?",
+      "options": [
+        "Usain Bolt",
+        "Michael Phelps",
+        "Serena Williams",
+        "Simone Biles"
+      ],
+      "correct_answer": 1,
+      "explanation": "Michael Phelps has won the most Olympic gold medals."
+    },
+    {
+      "question": "Which boxer is known as 'The Greatest' and 'The People's Champion'?",
+      "options": [
+        "Mike Tyson",
+        "Muhammad Ali",
+        "Floyd Mayweather Jr.",
+        "Manny Pacquiao"
+      ],
+      "correct_answer": 1,
+      "explanation": "Muhammad Ali is known as 'The Greatest' and 'The People's Champion'."
+    },
+    {
+      "question": "Which country won the UEFA Euro 2020 tournament?",
+      "options": ["Italy", "England", "Germany", "Spain"],
+      "correct_answer": 0,
+      "explanation": "Italy won the UEFA Euro 2020 tournament."
+    },
+    {
+      "question": "Who holds the record for the most home runs in a single MLB season?",
+      "options": ["Babe Ruth", "Barry Bonds", "Mark McGwire", "Sammy Sosa"],
+      "correct_answer": 1,
+      "explanation": "Barry Bonds holds the record for the most home runs in a single MLB season."
+    },
+    {
+      "question": "Which country hosted the 2016 Summer Olympics?",
+      "options": ["United States", "China", "Brazil", "Russia"],
+      "correct_answer": 2,
+      "explanation": "Brazil hosted the 2016 Summer Olympics."
+    },
+    {
+      "question": "Who is the most decorated Olympian of all time?",
+      "options": [
+        "Usain Bolt",
+        "Michael Phelps",
+        "Larisa Latynina",
+        "Simone Biles"
+      ],
+      "correct_answer": 1,
+      "explanation": "Michael Phelps is the most decorated Olympian of all time."
+    },
+    {
+      "question": "Which tennis player has won the most Grand Slam titles in history?",
+      "options": [
+        "Roger Federer",
+        "Rafael Nadal",
+        "Novak Djokovic",
+        "Serena Williams"
+      ],
+      "correct_answer": 3,
+      "explanation": "Serena Williams has won the most Grand Slam titles in history."
+    },
+    {
+      "question": "Who won the FIFA Women's World Cup in 2019?",
+      "options": ["United States", "Netherlands", "Sweden", "Germany"],
+      "correct_answer": 0,
+      "explanation": "The United States won the FIFA Women's World Cup in 2019."
+    }
+  ]
+}

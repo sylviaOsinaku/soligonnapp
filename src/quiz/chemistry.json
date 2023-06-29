@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "What is the chemical symbol for gold?",
+      "options": ["Au", "Ag", "Cu", "Fe"],
+      "correct_answer": 0,
+      "explanation": "The chemical symbol for gold is Au."
+    },
+    {
+      "question": "What is the atomic number of carbon?",
+      "options": ["4", "6", "8", "12"],
+      "correct_answer": 1,
+      "explanation": "The atomic number of carbon is 6."
+    },
+    {
+      "question": "What is the chemical formula for water?",
+      "options": ["H2O2", "H2O", "CO2", "CH4"],
+      "correct_answer": 1,
+      "explanation": "The chemical formula for water is H2O."
+    },
+    {
+      "question": "Which element is the most abundant in the Earth's atmosphere?",
+      "options": ["Nitrogen", "Oxygen", "Carbon", "Hydrogen"],
+      "correct_answer": 0,
+      "explanation": "Nitrogen is the most abundant element in the Earth's atmosphere."
+    },
+    {
+      "question": "What is the pH value of a neutral solution?",
+      "options": ["0", "5", "7", "14"],
+      "correct_answer": 2,
+      "explanation": "The pH value of a neutral solution is 7."
+    },
+    {
+      "question": "What is the chemical symbol for sodium?",
+      "options": ["Na", "So", "K", "Mg"],
+      "correct_answer": 0,
+      "explanation": "The chemical symbol for sodium is Na."
+    },
+    {
+      "question": "What is the process of converting a solid directly to a gas called?",
+      "options": ["Condensation", "Melting", "Evaporation", "Sublimation"],
+      "correct_answer": 3,
+      "explanation": "The process of converting a solid directly to a gas is called sublimation."
+    },
+    {
+      "question": "Which gas is the main component of the Earth's atmosphere?",
+      "options": ["Carbon dioxide", "Oxygen", "Nitrogen", "Methane"],
+      "correct_answer": 2,
+      "explanation": "Nitrogen is the main component of the Earth's atmosphere."
+    },
+    {
+      "question": "What is the chemical formula for table salt?",
+      "options": ["H2O2", "NaCl", "CO2", "CH4"],
+      "correct_answer": 1,
+      "explanation": "The chemical formula for table salt is NaCl."
+    },
+    {
+      "question": "What is the atomic symbol for iron?",
+      "options": ["Ir", "Fe", "Au", "Ag"],
+      "correct_answer": 1,
+      "explanation": "The atomic symbol for iron is Fe."
+    }
+  ]
+}

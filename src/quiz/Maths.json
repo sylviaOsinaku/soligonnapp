@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "What is the value of π (pi) correct to two decimal places?",
+      "options": ["3.14", "3.16", "3.18", "3.20"],
+      "correct_answer": 0,
+      "explanation": "The value of π (pi) correct to two decimal places is 3.14."
+    },
+    {
+      "question": "What is the square root of 64?",
+      "options": ["4", "6", "8", "10"],
+      "correct_answer": 2,
+      "explanation": "The square root of 64 is 8."
+    },
+    {
+      "question": "What is the result of 5 + 7 * 2?",
+      "options": ["19", "22", "24", "26"],
+      "correct_answer": 3,
+      "explanation": "The result of 5 + 7 * 2 is 26."
+    },
+    {
+      "question": "What is the value of 2²?",
+      "options": ["2", "4", "6", "8"],
+      "correct_answer": 1,
+      "explanation": "The value of 2² is 4."
+    },
+    {
+      "question": "What is the equation of a line in slope-intercept form?",
+      "options": ["y = mx + c", "y = ax² + bx + c", "y = a/b", "y = √x"],
+      "correct_answer": 0,
+      "explanation": "The equation of a line in slope-intercept form is y = mx + c."
+    },
+    {
+      "question": "What is the value of 9 factorial (9!)?",
+      "options": ["36", "72", "362,880", "3,628,800"],
+      "correct_answer": 2,
+      "explanation": "The value of 9 factorial (9!) is 362,880."
+    },
+    {
+      "question": "What is the result of 12 ÷ 4 + 2?",
+      "options": ["3", "5", "6", "8"],
+      "correct_answer": 1,
+      "explanation": "The result of 12 ÷ 4 + 2 is 5."
+    },
+    {
+      "question": "What is the area of a square with side length 5 units?",
+      "options": ["10", "15", "20", "25"],
+      "correct_answer": 3,
+      "explanation": "The area of a square with side length 5 units is 25 square units."
+    },
+    {
+      "question": "What is the value of 3 to the power of 4 (3⁴)?",
+      "options": ["27", "36", "64", "81"],
+      "correct_answer": 2,
+      "explanation": "The value of 3 to the power of 4 (3⁴) is 64."
+    },
+    {
+      "question": "What is the sum of the angles in a triangle?",
+      "options": ["90 degrees", "180 degrees", "270 degrees", "360 degrees"],
+      "correct_answer": 1,
+      "explanation": "The sum of the angles in a triangle is 180 degrees."
+    }
+  ]
+}

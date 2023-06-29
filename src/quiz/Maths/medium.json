@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "Simplify the expression: 3 + 2 × 4 - 1",
+      "options": ["7", "10", "11", "15"],
+      "correct_answer": 2,
+      "explanation": "The expression simplifies to 11."
+    },
+    {
+      "question": "What is the value of √16?",
+      "options": ["2", "4", "6", "8"],
+      "correct_answer": 1,
+      "explanation": "The square root of 16 is 4."
+    },
+    {
+      "question": "What is the result of 4² + 3²?",
+      "options": ["13", "16", "17", "25"],
+      "correct_answer": 2,
+      "explanation": "The result of 4² + 3² is 17."
+    },
+    {
+      "question": "What is the value of 5 to the power of 0 (5⁰)?",
+      "options": ["0", "1", "5", "10"],
+      "correct_answer": 1,
+      "explanation": "Any number to the power of 0 is equal to 1."
+    },
+    {
+      "question": "What is the equation of a parabola?",
+      "options": ["y = mx + c", "y = ax² + bx + c", "y = a/b", "y = √x"],
+      "correct_answer": 1,
+      "explanation": "The equation of a parabola is y = ax² + bx + c."
+    },
+    {
+      "question": "What is the value of 7 factorial (7!)?",
+      "options": ["14", "35", "5040", "720"],
+      "correct_answer": 2,
+      "explanation": "The value of 7 factorial (7!) is 5040."
+    },
+    {
+      "question": "What is the result of 15 ÷ 3 + 2?",
+      "options": ["2", "5", "7", "9"],
+      "correct_answer": 2,
+      "explanation": "The result of 15 ÷ 3 + 2 is 7."
+    },
+    {
+      "question": "What is the area of a rectangle with length 8 units and width 5 units?",
+      "options": ["10", "20", "30", "40"],
+      "correct_answer": 3,
+      "explanation": "The area of a rectangle with length 8 units and width 5 units is 40 square units."
+    },
+    {
+      "question": "What is the value of 2 to the power of 5 (2⁵)?",
+      "options": ["16", "24", "32", "64"],
+      "correct_answer": 2,
+      "explanation": "The value of 2 to the power of 5 (2⁵) is 32."
+    },
+    {
+      "question": "What is the sum of the angles in a quadrilateral?",
+      "options": ["90 degrees", "180 degrees", "270 degrees", "360 degrees"],
+      "correct_answer": 3,
+      "explanation": "The sum of the angles in a quadrilateral is 360 degrees."
+    }
+  ]
+}

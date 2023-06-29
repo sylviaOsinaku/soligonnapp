@@ -1,0 +1,79 @@
+{
+  "questions": [
+    {
+      "question": "What is the SI unit of force?",
+      "options": ["Newton", "Watt", "Volt", "Joule"],
+      "correct_answer": 0,
+      "explanation": "The SI unit of force is the Newton."
+    },
+    {
+      "question": "What is the speed of light in a vacuum?",
+      "options": [
+        "100,000 km/s",
+        "200,000 km/s",
+        "300,000 km/s",
+        "400,000 km/s"
+      ],
+      "correct_answer": 2,
+      "explanation": "The speed of light in a vacuum is approximately 300,000 km/s."
+    },
+    {
+      "question": "What is the formula for calculating velocity?",
+      "options": ["v = s × t", "v = a × t", "v = d/t", "v = F/m"],
+      "correct_answer": 2,
+      "explanation": "The formula for calculating velocity is v = d/t, where v is velocity, d is distance, and t is time."
+    },
+    {
+      "question": "What is the unit of electric current?",
+      "options": ["Ampere", "Ohm", "Volt", "Watt"],
+      "correct_answer": 0,
+      "explanation": "The unit of electric current is the Ampere."
+    },
+    {
+      "question": "What is the law of conservation of energy?",
+      "options": [
+        "Newton's First Law",
+        "Newton's Second Law",
+        "Newton's Third Law",
+        "First Law of Thermodynamics"
+      ],
+      "correct_answer": 3,
+      "explanation": "The law of conservation of energy is the First Law of Thermodynamics, which states that energy cannot be created or destroyed, only converted from one form to another."
+    },
+    {
+      "question": "What is the formula for calculating work?",
+      "options": ["W = m × g", "W = F × d", "W = P × V", "W = q × V"],
+      "correct_answer": 1,
+      "explanation": "The formula for calculating work is W = F × d, where W is work, F is force, and d is distance."
+    },
+    {
+      "question": "What is the acceleration due to gravity on Earth?",
+      "options": ["4.9 m/s²", "9.8 m/s²", "14.7 m/s²", "19.6 m/s²"],
+      "correct_answer": 1,
+      "explanation": "The acceleration due to gravity on Earth is approximately 9.8 m/s²."
+    },
+    {
+      "question": "What is the unit of electric potential difference?",
+      "options": ["Ampere", "Ohm", "Volt", "Watt"],
+      "correct_answer": 2,
+      "explanation": "The unit of electric potential difference is the Volt."
+    },
+    {
+      "question": "What is the law of universal gravitation?",
+      "options": [
+        "Newton's First Law",
+        "Newton's Second Law",
+        "Newton's Third Law",
+        "Law of Conservation of Energy"
+      ],
+      "correct_answer": 3,
+      "explanation": "The law of universal gravitation states that every particle in the universe attracts every other particle with a force that is directly proportional to the product of their masses and inversely proportional to the square of the distance between them."
+    },
+    {
+      "question": "What is the formula for calculating power?",
+      "options": ["P = m × g", "P = F × d", "P = W/t", "P = q × V"],
+      "correct_answer": 2,
+      "explanation": "The formula for calculating power is P = W/t, where P is power, W is work, and t is time."
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "questions": [
+    {
+      "question": "What is the largest species of penguin?",
+      "options": [
+        "Emperor Penguin",
+        "King Penguin",
+        "Gentoo Penguin",
+        "Adélie Penguin"
+      ],
+      "correct_answer": 0,
+      "explanation": "The Emperor Penguin is the largest species of penguin."
+    },
+    {
+      "question": "What is the fastest land animal?",
+      "options": ["Lion", "Leopard", "Cheetah", "Gazelle"],
+      "correct_answer": 2,
+      "explanation": "The cheetah is the fastest land animal."
+    },
+    {
+      "question": "Which animal has the longest neck?",
+      "options": ["Giraffe", "Kangaroo", "Elephant", "Zebra"],
+      "correct_answer": 0,
+      "explanation": "The giraffe has the longest neck of any living animal."
+    },
+    {
+      "question": "What is the largest species of shark?",
+      "options": [
+        "Tiger Shark",
+        "Great White Shark",
+        "Whale Shark",
+        "Hammerhead Shark"
+      ],
+      "correct_answer": 2,
+      "explanation": "The whale shark is the largest species of shark."
+    },
+    {
+      "question": "Which animal is known for its black and white stripes?",
+      "options": ["Zebra", "Tiger", "Leopard", "Cheetah"],
+      "correct_answer": 0,
+      "explanation": "The zebra is known for its black and white stripes."
+    },
+    {
+      "question": "What is the national bird of the United States?",
+      "options": [
+        "Bald Eagle",
+        "American Robin",
+        "Wild Turkey",
+        "Peregrine Falcon"
+      ],
+      "correct_answer": 0,
+      "explanation": "The Bald Eagle is the national bird of the United States."
+    },
+    {
+      "question": "Which animal is known for its ability to mimic human speech?",
+      "options": ["Parrot", "Dolphin", "Elephant", "Monkey"],
+      "correct_answer": 0,
+      "explanation": "Parrots are known for their ability to mimic human speech."
+    },
+    {
+      "question": "What is the largest species of bear?",
+      "options": ["Polar Bear", "Grizzly Bear", "Black Bear", "Kodiak Bear"],
+      "correct_answer": 3,
+      "explanation": "The Kodiak Bear is the largest species of bear."
+    },
+    {
+      "question": "Which animal is known for its humps?",
+      "options": ["Camel", "Kangaroo", "Horse", "Gorilla"],
+      "correct_answer": 0,
+      "explanation": "Camels are known for their humps."
+    },
+    {
+      "question": "What is the smallest species of monkey?",
+      "options": ["Tamarin", "Marmoset", "Gibbon", "Baboon"],
+      "correct_answer": 1,
+      "explanation": "The marmoset is the smallest species of monkey."
+    }
+  ]
+}

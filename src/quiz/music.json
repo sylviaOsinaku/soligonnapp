@@ -1,0 +1,89 @@
+{
+  "questions": [
+    {
+      "question": "Which rock band released the hit song 'Stairway to Heaven'?",
+      "options": ["Led Zeppelin", "Queen", "The Rolling Stones", "The Beatles"],
+      "correct_answer": 0,
+      "explanation": "The rock band Led Zeppelin released the hit song 'Stairway to Heaven'."
+    },
+    {
+      "question": "Who is known as the 'King of Pop'?",
+      "options": [
+        "Michael Jackson",
+        "Elvis Presley",
+        "Frank Sinatra",
+        "Prince"
+      ],
+      "correct_answer": 0,
+      "explanation": "Michael Jackson is known as the 'King of Pop'."
+    },
+    {
+      "question": "Which legendary guitarist is known for playing with his teeth?",
+      "options": [
+        "Jimi Hendrix",
+        "Eric Clapton",
+        "Jimmy Page",
+        "Stevie Ray Vaughan"
+      ],
+      "correct_answer": 0,
+      "explanation": "Jimi Hendrix is known for playing the guitar with his teeth."
+    },
+    {
+      "question": "Which singer's real name is Stefani Joanne Angelina Germanotta?",
+      "options": ["Madonna", "Lady Gaga", "Beyoncé", "Rihanna"],
+      "correct_answer": 1,
+      "explanation": "Lady Gaga's real name is Stefani Joanne Angelina Germanotta."
+    },
+    {
+      "question": "Which band released the album 'Sgt. Pepper's Lonely Hearts Club Band'?",
+      "options": [
+        "The Beatles",
+        "The Beach Boys",
+        "The Rolling Stones",
+        "Queen"
+      ],
+      "correct_answer": 0,
+      "explanation": "The band The Beatles released the album 'Sgt. Pepper's Lonely Hearts Club Band'."
+    },
+    {
+      "question": "Who is the lead guitarist of the band Queen?",
+      "options": [
+        "Jimmy Page",
+        "Brian May",
+        "Eddie Van Halen",
+        "Keith Richards"
+      ],
+      "correct_answer": 1,
+      "explanation": "Brian May is the lead guitarist of the band Queen."
+    },
+    {
+      "question": "Which singer won the most Grammy Awards in a single night?",
+      "options": ["Beyoncé", "Adele", "Taylor Swift", "Whitney Houston"],
+      "correct_answer": 1,
+      "explanation": "Adele won the most Grammy Awards in a single night."
+    },
+    {
+      "question": "Who wrote the song 'Like a Rolling Stone'?",
+      "options": [
+        "Bob Dylan",
+        "Bruce Springsteen",
+        "David Bowie",
+        "John Lennon"
+      ],
+      "correct_answer": 0,
+      "explanation": "Bob Dylan wrote the song 'Like a Rolling Stone'."
+    },
+    {
+      "question": "Which instrument does Yo-Yo Ma play?",
+      "options": ["Violin", "Cello", "Piano", "Trumpet"],
+      "correct_answer": 1,
+      "explanation": "Yo-Yo Ma plays the cello."
+    },
+    {
+      "question": "Which female artist had a hit song with 'Rolling in the Deep'?",
+      "options": ["Adele", "Rihanna", "Katy Perry", "Taylor Swift"],
+      "correct_answer": 0,
+      "explanation": "Adele had a hit song with 'Rolling in the Deep'."
+    }
+  ]
+}

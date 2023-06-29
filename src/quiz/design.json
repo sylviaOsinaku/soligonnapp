@@ -1,0 +1,74 @@
+{
+  "questions": [
+    {
+      "question": "Who designed the iconic Apple iPod?",
+      "options": [
+        "Jonathan Ive",
+        "Dieter Rams",
+        "Philippe Starck",
+        "Karim Rashid"
+      ],
+      "correct_answer": 0,
+      "explanation": "Jonathan Ive designed the iconic Apple iPod."
+    },
+    {
+      "question": "Which design style emphasizes minimalism and simplicity?",
+      "options": ["Art Deco", "Postmodernism", "Minimalism", "Baroque"],
+      "correct_answer": 2,
+      "explanation": "Minimalism is a design style that emphasizes minimal and simple elements."
+    },
+    {
+      "question": "Who is the renowned architect behind the Sydney Opera House?",
+      "options": ["Frank Gehry", "Zaha Hadid", "Le Corbusier", "Jørn Utzon"],
+      "correct_answer": 3,
+      "explanation": "Jørn Utzon is the renowned architect behind the Sydney Opera House."
+    },
+    {
+      "question": "Which color is often associated with environmental awareness and sustainability?",
+      "options": ["Green", "Red", "Blue", "Yellow"],
+      "correct_answer": 0,
+      "explanation": "The color green is often associated with environmental awareness and sustainability."
+    },
+    {
+      "question": "Which font is widely used in newspapers and books for legibility?",
+      "options": ["Times New Roman", "Helvetica", "Arial", "Garamond"],
+      "correct_answer": 3,
+      "explanation": "Garamond is widely used in newspapers and books for legibility."
+    },
+    {
+      "question": "Which design movement focused on functionality and industrial production?",
+      "options": ["Bauhaus", "Art Nouveau", "Surrealism", "Cubism"],
+      "correct_answer": 0,
+      "explanation": "The Bauhaus movement focused on functionality and industrial production."
+    },
+    {
+      "question": "Who is the famous fashion designer known for the little black dress?",
+      "options": [
+        "Coco Chanel",
+        "Giorgio Armani",
+        "Ralph Lauren",
+        "Donatella Versace"
+      ],
+      "correct_answer": 0,
+      "explanation": "Coco Chanel is the famous fashion designer known for the little black dress."
+    },
+    {
+      "question": "Which design principle refers to the arrangement of visual elements?",
+      "options": ["Balance", "Contrast", "Proportion", "Rhythm"],
+      "correct_answer": 0,
+      "explanation": "Balance refers to the arrangement of visual elements in a design."
+    },
+    {
+      "question": "Which famous architect designed the Guggenheim Museum in Bilbao?",
+      "options": ["Frank Gehry", "Rem Koolhaas", "I. M. Pei", "Renzo Piano"],
+      "correct_answer": 0,
+      "explanation": "Frank Gehry designed the Guggenheim Museum in Bilbao."
+    },
+    {
+      "question": "Which color is associated with luxury and royalty?",
+      "options": ["Purple", "Orange", "Pink", "Brown"],
+      "correct_answer": 0,
+      "explanation": "The color purple is associated with luxury and royalty."
+    }
+  ]
+}
